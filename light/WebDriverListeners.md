@@ -1,4 +1,4 @@
-# A listener listens to what exactly? - Mutable factories
+# How do I add listeners to the driver?
 
 Selenide offers a way to hookup listeners to the automanaged webdriver.
 

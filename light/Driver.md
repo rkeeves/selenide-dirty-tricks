@@ -1,4 +1,4 @@
-# What happens after I open? - Shutdown hook
+# Where's the driver?
 
 Selenide has a static class `Selenide`.
 

@@ -1,4 +1,4 @@
-# How do you invoke the right command if it is not statically typed?
+# How does it find the right command?
 
 Calling `$().setValue("a")` ends up callings the `Commands` singleton.
 

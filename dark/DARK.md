@@ -20,5 +20,5 @@ Here's the `dark side`, the hacked, discouraged way of things:
 - [Can I create my own SelenideElement without Dynamic Proxy?](BoilerPlateWay.md)
 - [Can I represent widgets as wrappers?](WidgetWrappers.md)
 - [Can I communicate that I'm testing?](Locating.md)
-- *In theory you can also use a proxy to have a greater control over xhr and resulting changes, but that was simply too dirty even for my curiousity.
+- *In theory you can also use a proxy to have a greater control over xhr and resulting changes, but that was simply too dirty even for my curiousity.*
 - *You can also use Chrome Dev Tools, or BiDi of Selenium but that will couple you to a specific browser.*

@@ -1,4 +1,4 @@
-# How does it locate something within something?
+# How does it find Y inside X?
 
 When we do:
 

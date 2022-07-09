@@ -1,4 +1,4 @@
-# How lazy is lazy?
+# What's lazy?
 
 When we do:
 

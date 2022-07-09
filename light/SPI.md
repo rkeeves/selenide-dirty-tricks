@@ -1,4 +1,4 @@
-# What is inject? - SPI
+# What is inject?
 
 Remember `Plugins.inject`?
 

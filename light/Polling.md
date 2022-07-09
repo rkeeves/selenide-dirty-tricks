@@ -1,4 +1,4 @@
-# How long will it take?
+# How does it poll?
 
 When we:
 

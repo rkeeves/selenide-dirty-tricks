@@ -10,7 +10,7 @@ Here's the `light side`, the vanilla, intended way of things:
 
 - [How can I have a SelenideElement if nothing implements it?](DynamicProxy.md)
 - [Where is the behavior?](CommandsSingleton.md)
-- [How do it find the right command?](CommandLookup.md)
+- [How does it find the right command?](CommandLookup.md)
 - [How does it poll?](Polling.md)
 - [What's lazy?](Lazy.md)
 - [How does it find Y inside X?](RelativeSearch.md)
